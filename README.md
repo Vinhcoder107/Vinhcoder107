@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinhcoder107
-- 👀 I’m interested in BA
+- 👀 I’m interested in BE
 - 🌱 I’m currently learning SE
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
