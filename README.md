@@ -1,4 +1,4 @@
-const hoangDev = {
+const VinhCoder = {
   fullName: "Nguyễn Quang Vinh",
   role: "Backend Developer",
   data: {
