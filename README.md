@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Vinhcoder107
-- 👀 I’m interested in BE
-- 🌱 I’m currently learning SE
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Vinhcoder107/Vinhcoder107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const hoangDev = {
+  fullName: "Nguyễn Quang Vinh",
+  role: "Backend Developer",
+  data: {
+    languages: ["Java", "JavaScript", "TypeScript"],
+    frameworks: ["Spring Boot", "Express.js", "Next.js"],
+    databases: ["MySQL", "MongoDB", "PostgreSQL"],
+    devOps: ["Docker", "AWS", "Nginx"],
+    architecture: ["Microservices", "MVC", "REST API"]
+  },
+  currentlyLearning: ["Spring Cloud", "Kubernetes", "System Design"],
+  hobbies: ["Coding", "Reading", "Gaming"]
+};
